@@ -86,7 +86,3 @@ Interactive demonstrations that reproduce each failure and walk through wrong vs
 Found a failure mode not covered here? Open an issue using the [new failure mode template](.github/ISSUE_TEMPLATE/new_failure_mode.md). The template mirrors the taxonomy format -- fill in what you saw, what you tried first, and what actually worked.
 
 The bar for inclusion: it happened in production (or a production-realistic load test), it was non-obvious, and the first fix was wrong.
-
----
-
-*Alex Barreto -- Data & AI Practice Lead, [Entrada AI](https://entrada.ai)*
