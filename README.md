@@ -1,4 +1,4 @@
-# Agent Failure Taxonomy
+# Production AI Agent Failures
 
 Production failure modes in multi-agent systems. Not edge cases from blog posts.
 
